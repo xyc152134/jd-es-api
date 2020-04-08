@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87d66f81-709f-443c-b863-a8b23d8d8035" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../es-api/src/main/java/com/xyc/esapi/config/ElasticSearchClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/config/ElasticSearchClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/controller/JDInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/pojo/JDinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/service/JDinfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/util/HtmlParseUitl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/beijing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/jdlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyc-es-api/src/main/java/com/xyc/esapi/config/ElasticSearchClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyc-es-api/src/main/java/com/xyc/esapi/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/HrserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/ChatResp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Hr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/JobLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/MenuMeta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/MsgContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Nation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/PoliticsStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/RespBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/Salary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/bean/SysMsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/common/DateConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/common/EmailRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/common/HrUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/common/poi/PoiUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/config/AuthenticationAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/config/CustomMetadataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/config/UrlAccessDecisionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/ConfigController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/PersonnelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/RegLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/WsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/emp/EmpBasicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/salary/SalaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/salary/SalaryEmpController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/salary/SalaryTableController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/system/SystemBasicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/controller/system/SystemHrController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/exception/CustomExceptionResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/DepartmentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/DepartmentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/EmpMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/EmpMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/HrMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/HrMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/JobLevelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/JobLevelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/MenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/MenuRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/MenuRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/PositionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/PositionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/RoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/SalaryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/SalaryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/SysMsgMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/SysMsgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/mapper/SystemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/DepartmentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/EmpService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/HrService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/JobLevelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/MenuRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/PositionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/SalaryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/SysMsgService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/java/org/sang/service/SystemService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/css/app.4b7d8f4ce6caf32a8228060bf23032ae.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/css/app.4b7d8f4ce6caf32a8228060bf23032ae.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.674f50d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.af7ae50.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.b06871f.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.fee66e7.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/img/fontawesome-webfont.912ec66.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/0.758598ac178b219ac6fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/0.758598ac178b219ac6fc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/1.61237708015f0e40b9d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/1.61237708015f0e40b9d2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/2.aaaeb019e83efa66f190.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/2.aaaeb019e83efa66f190.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/3.f005d3d1f94072277c82.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/3.f005d3d1f94072277c82.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/4.1a590e21825d3917c4c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/4.1a590e21825d3917c4c6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/5.f0bff364f71c1de2abd1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/5.f0bff364f71c1de2abd1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/app.3ebb2e8e7f4aacd6bc3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/app.3ebb2e8e7f4aacd6bc3d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/manifest.7222ec98ac5b9de6dfe0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/manifest.7222ec98ac5b9de6dfe0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/vendor.b6f6d144b8ab8460c96d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/static/static/js/vendor.b6f6d144b8ab8460c96d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/templates/email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/src/main/resources/vhr.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\springboot\jd-es-api\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFNiIODKT8UnH6H09qU045cKSb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\springboot\jd-es-api\src\main\resources\static\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springboot\jd-es-api\src\main\resources\static\images" />
+      <recent name="D:\springboot\jd-es-api\src\main\resources\static\js" />
+      <recent name="D:\springboot\jd-es-api\src\main\resources\templates" />
+      <recent name="D:\springboot\jd-es-api\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JdEsApiApplication">
+    <configuration name="HtmlParseUitl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xyc.jdesapi.util.HtmlParseUitl" />
+      <module name="jd-es-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.jdesapi.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDinfoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xyc.jdesapi.service.JDinfoService" />
+      <module name="jd-es-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.jdesapi.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdEsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jd-es-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.jdesapi.JdEsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDinfoService" />
+        <item itemvalue="Application.HtmlParseUitl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87d66f81-709f-443c-b863-a8b23d8d8035" name="Default Changelist" comment="" />
+      <created>1586327507105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586327507105</updated>
+      <workItem from="1586327513761" duration="7598000" />
+      <workItem from="1586338959895" duration="1685000" />
+      <workItem from="1586340678586" duration="583000" />
+      <workItem from="1586341292230" duration="116000" />
+      <workItem from="1586341428995" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="798" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586338504668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="798" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586338504668" />
+    <state x="489" y="14" key="CommitChangelistDialog2" timestamp="1586341869073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586341869073" />
+    <state width="870" height="207" key="GridCell.Tab.0.bottom" timestamp="1586341718853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
+    <state width="870" height="207" key="GridCell.Tab.0.center" timestamp="1586341718853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
+    <state width="870" height="207" key="GridCell.Tab.0.left" timestamp="1586341718851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586341718851" />
+    <state width="870" height="207" key="GridCell.Tab.0.right" timestamp="1586341718853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
+    <state width="870" height="207" key="GridCell.Tab.1.bottom" timestamp="1586341718854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586341718854" />
+    <state width="870" height="207" key="GridCell.Tab.1.center" timestamp="1586341718854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586341718854" />
+    <state width="870" height="207" key="GridCell.Tab.1.left" timestamp="1586341718853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
+    <state width="870" height="207" key="GridCell.Tab.1.right" timestamp="1586341718854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="870" height="207" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586341718854" />
+    <state x="855" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586332849485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="855" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586332849485" />
+  </component>
+</project>
