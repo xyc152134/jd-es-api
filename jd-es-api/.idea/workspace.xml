@@ -3,24 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="87d66f81-709f-443c-b863-a8b23d8d8035" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../es-api/src/main/java/com/xyc/esapi/config/ElasticSearchClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/config/ElasticSearchClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/controller/JDInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/pojo/JDinfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/service/JDinfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/jdesapi/util/HtmlParseUitl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/beijing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/jdlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/vue.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/axios.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/vue.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xyc-es-api/src/main/java/com/xyc/esapi/config/ElasticSearchClientConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xyc-es-api/src/main/java/com/xyc/esapi/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../vhr-master/hrserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -267,12 +252,24 @@
       <workItem from="1586338959895" duration="1685000" />
       <workItem from="1586340678586" duration="583000" />
       <workItem from="1586341292230" duration="116000" />
-      <workItem from="1586341428995" duration="237000" />
+      <workItem from="1586341428995" duration="1199000" />
     </task>
+    <task id="LOCAL-00001" summary="基于ElasticSearch7.6.1仿京东实战项目">
+      <created>1586341877200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341877200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基于ElasticSearch7.6.1仿京东实战项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于ElasticSearch7.6.1仿京东实战项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="798" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586338504668">
@@ -283,38 +280,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586341869073" />
-    <state width="870" height="207" key="GridCell.Tab.0.bottom" timestamp="1586341718853">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
-    <state width="870" height="207" key="GridCell.Tab.0.center" timestamp="1586341718853">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
-    <state width="870" height="207" key="GridCell.Tab.0.left" timestamp="1586341718851">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586341718851" />
-    <state width="870" height="207" key="GridCell.Tab.0.right" timestamp="1586341718853">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
-    <state width="870" height="207" key="GridCell.Tab.1.bottom" timestamp="1586341718854">
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.1.bottom" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586341718854" />
-    <state width="870" height="207" key="GridCell.Tab.1.center" timestamp="1586341718854">
+    <state width="1493" height="207" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.1.center" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586341718854" />
-    <state width="870" height="207" key="GridCell.Tab.1.left" timestamp="1586341718853">
+    <state width="1493" height="207" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.1.left" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586341718853" />
-    <state width="870" height="207" key="GridCell.Tab.1.right" timestamp="1586341718854">
+    <state width="1493" height="207" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state width="1493" height="207" key="GridCell.Tab.1.right" timestamp="1586347256247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="870" height="207" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586341718854" />
+    <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586347256247" />
+    <state x="651" y="184" key="Vcs.Push.Dialog.v2" timestamp="1586341973851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="184" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586341973851" />
     <state x="855" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586332849485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
